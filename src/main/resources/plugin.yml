@@ -1,0 +1,8 @@
+name: justhub
+version: '${project.version}'
+main: pl.iddmsdev.justhub.essentials.Main
+api-version: 1.19
+authors: [ iddmsdev ]
+commands:
+  pomoc:
+    description: "Wyświetla podstawowe komendy"

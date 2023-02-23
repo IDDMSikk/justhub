@@ -1,0 +1,8 @@
+# WIADOMOŚCI PO KOMENDZIE /pomoc
+help-command:
+  - "&8&l[-- &f&lJust&6&lHub &8&l--]"
+  - "&6/rangi &8- &fWyświetla przywileje i permisje rang na serwerze"
+  - "&6/discord &8- &fWysyła Ci link do naszego discorda"
+  - "&6/admin &8- &fWysyła wiadomość do administracji"
+  - "&6/sklep &8- &fWysyła link do strony naszego sklepu"
+  - "&6/media &8- &fWysyła informacje potrzebne do zdobycia rangi &c&lMedia"
